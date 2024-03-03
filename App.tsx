@@ -60,7 +60,7 @@ function App(): React.JSX.Element {
 
   const backgroundStyle = {
     backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
-  };
+   };
 
   return (
     <SafeAreaView style={backgroundStyle}>
@@ -80,7 +80,7 @@ function App(): React.JSX.Element {
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
             screen and then come back to see your edits.
           </Section>
-          <Section title="See Your Changes">
+          <Section title="See wjho cares about ur Changes">
             <ReloadInstructions />
           </Section>
           <Section title="Debug">
